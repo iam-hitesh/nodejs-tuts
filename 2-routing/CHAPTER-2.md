@@ -23,4 +23,12 @@ It’s basically taking the user (or some data) from one place to another. That 
 
 Congratulations, everything is ready to handle requests! There are several types of requests in HTTP, but we’ll only be handling GET requests, which are used to retrieve data from the server. To handle this kind of request in Express, we use the following method:
 
-Follow File app.js()
+### Handling POST and Other requests
+
+Check login routing in app.js
+
+Follow File app.js()(https://github.com/iam-hitesh/nodejs-tuts/blob/master/2-routing/app.js)
+
+
+### You Can see a full application in Node.js at https://github.com/iam-hitesh/nodejs-tuts/project
+
